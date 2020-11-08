@@ -5,5 +5,5 @@ Add a reload frame button to TYPO3 backend content editing.
 ## Installation using Composer
 
 ```
-composer require pazborma/reloadframe
+composer require pazborma/reload_frame
 ```
